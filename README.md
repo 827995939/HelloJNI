@@ -1,0 +1,2 @@
+# HelloJNI
+Android NDK 
